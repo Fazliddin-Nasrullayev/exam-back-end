@@ -1,0 +1,42 @@
+[
+    {
+        "product_id": 1,
+        "sub_category_id": 1,
+        "model": "nokia",
+        "product_name": "1202 ",
+        "color": "red",
+        "price": "20"
+    },
+    {
+        "product_id": 2,
+        "sub_category_id": 2,
+        "model": "nokia",
+        "product_name": "1202 ",
+        "color": "red",
+        "price": "20"
+    },
+    {
+        "product_id": 3,
+        "sub_category_id": 3,
+        "model": "samsung",
+        "product_name": "1202 ",
+        "color": "red",
+        "price": "20"
+    },
+    {
+        "product_id": 4,
+        "sub_category_id": 4,
+        "model": "nokia",
+        "product_name": "1202 ",
+        "color": "red",
+        "price": "20"
+    },
+    {
+        "model": "nokia",
+        "product_name": "1202 ",
+        "price": "20",
+        "color": "red",
+        "sub_category_id": 1,
+        "product_id": 5
+    }
+]

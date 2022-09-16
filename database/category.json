@@ -1,0 +1,22 @@
+[
+    {
+        "categoryId": 1,
+        "categoryName": "qwertyuiop"
+    },
+    {
+        "categoryId": 2,
+        "categoryName": "television"
+    },
+    {
+        "categoryId": 3,
+        "categoryName": "television"
+    },
+    {
+        "categoryId": 4,
+        "categoryName": "television"
+    },
+    {
+        "categoryId": 5,
+        "categoryName": "poiuytrew"
+    }
+]

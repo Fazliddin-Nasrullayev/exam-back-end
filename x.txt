@@ -1,0 +1,18 @@
+category
+    category_id
+    category_name
+
+
+sub_category
+    sub_category_id
+    category_id
+    sub_category_name
+
+
+product
+    product_id
+    model
+    price
+    color
+    product_name
+    sub_category_id
